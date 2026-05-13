@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://dextroa.fr/</loc>
+    <loc>https://julienm18.github.io/dextroa-sitemap/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://dextroa.fr/a-propos</loc>
+    <loc>https://julienm18.github.io/dextroa-sitemap/a-propos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://dextroa.fr/services</loc>
+    <loc>https://julienm18.github.io/dextroa-sitemap/services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://dextroa.fr/contact</loc>
+    <loc>https://julienm18.github.io/dextroa-sitemap/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
